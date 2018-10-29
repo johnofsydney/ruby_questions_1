@@ -1,5 +1,8 @@
 require "pry"
 
+# procs, blocks and lambdas
+
+
 a = [1,2,3,4,5]
 
 # BLOCKS - a block is the bit of code between the {},

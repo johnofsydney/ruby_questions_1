@@ -1,4 +1,6 @@
 require 'pry'
+# Example of inheritance
+
 
 class Boat
   # in this example, Boat is the superclass

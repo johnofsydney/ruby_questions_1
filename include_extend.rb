@@ -1,6 +1,8 @@
 require "pry"
 
-# examples of how to include a moduel in various classes.
+# Include and Extend
+# examples of how to include a module in various classes.
+
 # The methods in the module below then are available to the instances of the classes in which they are included.
 module Electricity
   def power
